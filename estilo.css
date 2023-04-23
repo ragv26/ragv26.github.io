@@ -1,0 +1,62 @@
+body{
+    background: cadetblue;
+}
+
+h1{
+    font-size: 40px;
+    font-family: monospace;
+}
+
+h2{
+    font-size: 20px;
+    font-family: monospace;
+}
+
+header{
+    background: rgb(196, 93, 158);
+    border: 5px solid #860867;
+    padding: 10px;
+}
+
+.menu li{
+    list-style: none;
+    padding: 5px;
+    font: 14px monospace;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+section{
+    background: rgb(196, 93, 158);
+    border: 1px solid #860867;
+    padding: 10px;
+    width: 75%;
+    float: left;
+}
+
+aside{
+    background: rgb(196, 93, 158);
+    border: 1px solid #860867;
+    padding: 10px;
+    width: 20%;
+    float: right;
+}
+.lado li{
+    list-style: none;
+}
+
+.art1{
+    width: 500px;
+}
+.art2{
+    width: 10px;
+}
+.pie li{
+    list-style: none;
+    display: inline-block;
+    padding: 40px;
+    margin: 20px;
+}
+footer{
+    clear: both;
+}
